@@ -7,9 +7,6 @@ using System.Threading.Tasks;
 
 namespace _20240530_Prac04_小野零乙
 {
-    /// <summary>
-    /// unko
-    /// </summary>
     public class CoinCase
     {
         private int _coin500;
